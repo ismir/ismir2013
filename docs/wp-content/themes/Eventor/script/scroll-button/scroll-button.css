@@ -1,0 +1,49 @@
+/*--- SCROLL TOP ---*/
+.scroll-top{
+    float: right;
+    width: 128px;
+    height: 47px;
+}
+
+#back-top {
+    width: 128px;
+    height: 47px;
+    margin: 0;
+}
+
+
+#back-top a {
+    float: right;
+    width: 42px;
+    height: 42px;
+    position: relative;
+    margin: 3px 7px 0 0;
+    z-index: 99;
+}
+
+#back-top span {
+    float: right;
+    width: 42px;
+    height: 42px;
+    display: block;
+    background: url(img/scroll-top.png) no-repeat top left;
+    margin: 0;
+    position: relative;
+    z-index: 99;
+}
+
+
+
+.to-the-top-text{
+    font-size: 11px!important;
+    font-family: 'Georgia'!important;
+    font-style: italic!important;
+    display: inline-block!important;
+    background: none!important;
+    width: auto!important;
+    height: auto!important;
+    float: left!important;
+    top: 15px!important;
+    left: 15px!important;
+    position: relative!important;
+}
